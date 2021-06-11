@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "747846537898",
+    "firebase_url": "https://flutter-notification-28d96-default-rtdb.firebaseio.com",
+    "project_id": "flutter-notification-28d96",
+    "storage_bucket": "flutter-notification-28d96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747846537898:android:3988b43de6de6a03d7b6d3",
+        "android_client_info": {
+          "package_name": "Numeiang.Android1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747846537898-mh5vhmhti8nk9ifg99lk1gvggrv4fvev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgwoMy-imUNfkR6kJ1mu7UeLFGUXh-_kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747846537898-mh5vhmhti8nk9ifg99lk1gvggrv4fvev.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "747846537898-s2oct7autetp2v12vq0e36g89v2o27ik.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Numeiang.iOS1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
