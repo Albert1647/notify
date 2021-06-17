@@ -184,19 +184,19 @@ class _Application extends State<Application> {
       case 'subscribe':
         {
           print(
-              'FlutterFire Messaging Example: Subscribing to topic "fcm_test".');
-          await FirebaseMessaging.instance.subscribeToTopic('fcm_test');
+              'FlutterFire Messaging Example: Subscribing to topic "fortune".');
+          await FirebaseMessaging.instance.subscribeToTopic('fortune');
           print(
-              'FlutterFire Messaging Example: Subscribing to topic "fcm_test" successful.');
+              'FlutterFire Messaging Example: Subscribing to topic "fortune" successful.');
         }
         break;
       case 'unsubscribe':
         {
           print(
-              'FlutterFire Messaging Example: Unsubscribing from topic "fcm_test".');
-          await FirebaseMessaging.instance.unsubscribeFromTopic('fcm_test');
+              'FlutterFire Messaging Example: Unsubscribing from topic "fortune".');
+          await FirebaseMessaging.instance.unsubscribeFromTopic('fortune');
           print(
-              'FlutterFire Messaging Example: Unsubscribing from topic "fcm_test" successful.');
+              'FlutterFire Messaging Example: Unsubscribing from topic "fortune" successful.');
         }
         break;
       case 'get_apns_token':
